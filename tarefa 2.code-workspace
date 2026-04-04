@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../tarefa 3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tarefa 3"
+	}
+}
